@@ -18,4 +18,4 @@
   
 ### Lint
    - Open terminal and navigate into folder with module.
-   - Run **./node_modules/.bin/eslint <path/to/file>**
+   - Run **./node_modules/.bin/eslint <path/to/file>** to check if file is Airbnb compitable.
