@@ -14,7 +14,7 @@
     
 ### Test
    - Open terminal and navigate into folder with module.
-   - Run **npm -s test** command to run tests (running tests in save mode to avoid npm errors).
+   - Run **npm run test** command to run tests.
   
 ### Lint
    - Open terminal and navigate into folder with module.
