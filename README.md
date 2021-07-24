@@ -1,7 +1,8 @@
 # Fees amount displayer
 
 ### Project setup
-   - Extract package with module to folder.
+   - Download module.
+   - Extract module into folder.
    - Open terminal and navigate into folder with module.
    - Run **npm install** command to install dependencies.
 
